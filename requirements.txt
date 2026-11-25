@@ -1,0 +1,12 @@
+# Computer Vision & AI
+opencv-python
+ultralytics
+numpy
+
+# Web Monitoring
+flask
+requests
+
+# Control & Pixhawk Communication
+pymavlink
+pygame-ce
